@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there 👋, I'm [FanRui Kong] 
 
-<!--
-**KFR123/KFR123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的 GitHub 主页！我是 [Guangzhou Institute of Science and Technology] 的一名学生，正在进行基于深度学习的缺陷检测领域研究。我的论文题目是：**《基于深度学习的手机中框缺陷检测与识别研究》**。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 **关于我的研究方向**  
+我的研究主要围绕计算机视觉和深度学习算法展开，目标是通过**缺陷检测与识别模型**，提高制造业中的质量检测自动化程度，具体包括：  
+- 使用深度学习框架（如 PyTorch 或 TensorFlow）进行图像分类和目标检测  
+- 应用先进的检测网络（如 YOLO, Faster R-CNN）实现手机中框缺陷识别  
+- 结合实际生产场景，优化模型的推理速度与检测准确率  
+
+---
+
+## 🔍 **寻找的开源项目**  
+我正在寻找与以下方向相关的开源项目，以便进一步推动我的研究：  
+1. **基于深度学习的缺陷检测**  
+2. **工业图像处理与目标检测**  
+3. **YOLO、Faster R-CNN 等检测网络的优化和应用**  
+
+如果你有相关的项目或资源推荐，欢迎分享给我！🙏  
+
+---
+
+## 🛠️ **我的技能**  
+- **深度学习框架**：PyTorch | TensorFlow  
+- **编程语言**：Python | MATLAB  
+- **图像处理**：OpenCV | PIL  
+- **目标检测网络**：YOLO, Faster R-CNN, SSD  
+
+---
+
+## 📫 **联系我**  
+- GitHub: [你的 GitHub 链接]  
+- 邮箱: [你的邮箱地址]  
+- 研究领域：缺陷检测、深度学习、计算机视觉  
+
+---
+
+感谢访问我的主页！如果你对我的研究感兴趣，欢迎 Star⭐ 或 Fork 我接下来的项目！
